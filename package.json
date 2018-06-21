@@ -1,0 +1,12 @@
+{
+  "name": "TryingOutTestCafe",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "testcafe chrome test.ts"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "testcafe": "^0.20.3"
+  }
+}
